@@ -3,8 +3,8 @@
 //------------------------------------------------------------------------------
 ////////////////////////////////////////////////////////////////////////////////
 
-//const BASE_URL                              = "https://solverlining.com";
-const BASE_URL                            = "http://localhost/SolverLining";
+const BASE_URL                              = "https://solverlining.com";
+//const BASE_URL                            = "http://localhost/SolverLining";
 
 const URL_HOME                              = BASE_URL;
 const URL_ARCHIVE                           = BASE_URL + "/#archive";
